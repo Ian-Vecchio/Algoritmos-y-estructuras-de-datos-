@@ -1,8 +1,0 @@
-M=5
-a=[1,2,3,4,5]
-print(a)
-e=[]
-i=0
-for i in range(M):
-    e.append(a[M - (i + 1)])
-print(e)
